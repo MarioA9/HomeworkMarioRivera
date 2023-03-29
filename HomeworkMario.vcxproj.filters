@@ -23,5 +23,8 @@
     <ClInclude Include="GuessMyNumber.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="numeros_digitos_rangos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
