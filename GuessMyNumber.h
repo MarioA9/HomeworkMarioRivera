@@ -5,7 +5,7 @@ using namespace std;
 
 void GuessMyNumber()
 {
-
+    system("cls");
     srand(static_cast<unsigned int>(time(0)));
     //srand(time(NULL));
     int randomNumber = rand();

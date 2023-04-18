@@ -16,6 +16,7 @@ void numeros_digitos_rangos()
     int max;
     int min;
     int num;
+    system("cls");
     //primera parte de la tarea
     cout << "escriba un numero" << endl;
     cin >> a;

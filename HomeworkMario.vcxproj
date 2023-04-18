@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="GuessMyNumber.h" />
     <ClInclude Include="numeros_digitos_rangos.h" />
+    <ClInclude Include="piedra_papel_tijeras.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

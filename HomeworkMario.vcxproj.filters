@@ -26,5 +26,8 @@
     <ClInclude Include="numeros_digitos_rangos.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="piedra_papel_tijeras.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
